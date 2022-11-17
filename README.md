@@ -27,7 +27,7 @@ The aim of the project is to convince investors that a bike sharing program is a
 ### In this project, we will 
 
 ## Resources
-- Data Source: 201908-citibike-tripdata.csv, citibike_tripdate_converted.csv
+- Data Source: <a href="https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip">201908-citibike-tripdata.csv</a> from the <a href="https://ride.citibikenyc.com/system-data">Citi Bike System Data page</a>
 - Software: Jupyter Notebook 6.4.8, Python 3.7.13, Tableau Public 2022.3.0
 - Library: Pandas 1.3.5
 
