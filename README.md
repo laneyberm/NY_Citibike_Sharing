@@ -14,43 +14,55 @@ Your investors are curious about the bike utilization during the month of August
 
 ## Results
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/checkout_times_users.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/checkout_times_users.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
 - The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/checkout_times_gender.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/checkout_times_gender.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
 - The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/trips_by_weekday_per_hour.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/trips_by_weekday_per_hour.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
 - The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/trips_by_gender.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/trips_by_gender.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
 - The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/user_trips_by_gender.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/user_trips_by_gender.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
 - The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/bike_maintenance.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/bike_maintenance.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
 - The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
 
-<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/august_peak_hours.png" width="800">
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/august_peak_hours.png" width="900">
+
+- The total number of students have changed from 39,170 to 38,709.
+- The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
+- The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
+
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/top_starting_location.png" width="900">
+
+- The total number of students have changed from 39,170 to 38,709.
+- The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
+- The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
+
+<img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/top_ending_location.png" width="900">
 
 - The total number of students have changed from 39,170 to 38,709.
 - The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
