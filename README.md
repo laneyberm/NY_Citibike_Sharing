@@ -1,4 +1,4 @@
-# NY_Citibike_Sharing
+Data Analysis of NYC Citibike Usage
 
 ## Project Overview
 ###  
