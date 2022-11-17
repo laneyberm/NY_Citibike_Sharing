@@ -47,7 +47,7 @@ Questions they have include: how many bike trips were recorded during the month 
 
 <img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/august_peak_hours.png" width="900">
 
-- The least busy hours are from 1am to 5am which is the most convenient time for maintenance. This would be the most ideal time to maintain the high utilized bikes. 
+- The least busy hours are from 1am to 5am which is the most convenient time for maintenance. 
 
 <img src="https://github.com/laneyberm/NY_Citibike_Sharing/blob/main/static/images/top_starting_location.png" width="900">
 
@@ -58,8 +58,13 @@ Questions they have include: how many bike trips were recorded during the month 
 - The darker and larger circles are the the most popular locations for ending a bike journey.
 - The top ride ending locations are Manhattan's most touristic and busiest areas.
 
-## Summary
+## Link to the Dashboard
+[link to Tableau dashboard] <a href="https://public.tableau.com/app/profile/elaine.bermudez/viz/NYC_Bikesharing_201908_16686538901570/Story1">link to dashboard</a>
 
-[link to dashboard] <a href="https://public.tableau.com/app/profile/elaine.bermudez/viz/NYC_Bikesharing_201908_16686538901570/Story1">link to dashboard</a>
+## Summary and Recommendations
+From the checkout times data, we find that male users are the highest utilizations. Optimizing a marketing strategy to a new bike sharing program should be initally geared towards males. From the user trips by gender and weekeday data, we see that there are higher bike utilization for subscribers for all genders. From the bike maintenance and peak hours data, we see that a majority of the bike utilization is 25% of the bikes. The most ideal time to maintain the high utilized bikes would be from 12am to 5am. 
 
+A few recommendations:
+- Find the Des Moises population in comparison to NYC. This will help determine the amount of bike to purchase to the intial set up. 
+- Find the major transit locations for starting and ending commuters in Des Moises. 
 
